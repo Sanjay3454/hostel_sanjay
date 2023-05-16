@@ -1,0 +1,14 @@
+.logo-container {
+  display: inline-flex;
+  align-items: center;
+}
+img{
+    height: 60px;
+    width: 60px;
+    
+}
+.navbrand{
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgb(123, 120, 120);
+
+}

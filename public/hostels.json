@@ -1,0 +1,159 @@
+{
+  "hostel":[
+    {
+      "id":1,
+      "name": "Backpacker's Haven",
+      "review": "A budget-friendly hostel catering to backpackers and solo travelers. The vibrant atmosphere and friendly staff create a welcoming experience.",
+      "place": "Kochi, Kerala",
+      "image": "https://i.postimg.cc/hGVfhgN0/zostel-kochi.jpg",
+      "rating": 4.1,
+      "price_range": "5k",
+      "amenities": ["Dormitory rooms", "Common kitchen", "Social lounge", "Free Wi-Fi"],
+      "contact": {
+        "phone": "+91-9876543217",
+        "email": "info@backpackershaven.com",
+        "website": "https://www.backpackershaven.com"
+      }
+    }
+    ,
+    
+  
+
+
+  
+    {
+      "id":2,
+      "name": "Traveler's Den",
+      "review": "A cozy and welcoming hostel for travelers. The comfortable beds and communal spaces make it a great place to meet fellow adventurers.",
+      "place": "Kochi, Kerala",
+      "image": "https://i.postimg.cc/nLntYJC2/GR2-252553-1185113-400-540.jpg",
+      "rating": 4.2,
+      "price_range": "6k",
+      "amenities": ["Shared rooms", "Common area", "Free breakfast", "Bicycle rental"],
+      "contact": {
+        "phone": "+91-9876543218",
+        "email": "info@travelersden.com",
+        "website": "https://www.travelersden.com"
+      }
+    }
+    
+,
+
+{
+  "id":3,
+  "name": "Wanderlust Hostel",
+  "review": "An artistic and lively hostel that embodies the spirit of wanderlust. The colorful decor and friendly atmosphere make it a memorable stay.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/6QTx1hf4/2089437-17042616500052647862.jpg",
+  "rating": 4.4,
+  "price_range": "8k",
+  "amenities": ["Bunk beds", "Cafe", "Outdoor terrace", "Book exchange"],
+  "contact": {
+    "phone": "+91-9876543219",
+    "email": "info@wanderlusthostel.com",
+    "website": "https://www.wanderlusthostel.com"
+  }
+}
+
+
+,{
+  "id":4,
+  "name": "Nomad's Nest",
+  "review": "A cozy and peaceful hostel for digital nomads and remote workers. The quiet atmosphere and comfortable workspaces cater to productivity.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/GpDq28cS/85982753-N5n-DPR.jpg",
+  "rating": 4.3,
+  "price_range": "5.5k",
+  "amenities": ["Workstations", "High-speed Wi-Fi", "Quiet rooms", "Shared kitchen"],
+  "contact": {
+    "phone": "+91-9876543220",
+    "email": "info@nomadsnest.com",
+    "website": "https://www.nomadsnest.com"
+  }
+}
+
+,
+
+{
+  "id":5,
+  "name": "Seaside Bunkhouse",
+  "review": "A charming hostel located by the seaside. The cozy bunks and breathtaking views make it an ideal place for beach lovers.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/1R82htF2/db2556a441a411ea8b9c0242ac110006.jpg",
+  "rating": 4.0,
+  "price_range": "5k",
+  "amenities": ["Beachfront location", "Shared dorms", "Common area", "Outdoor activities"],
+  "contact": {
+    "phone": "+91-9876543221",
+    "email": "info@seasidebunkhouse.com",
+    "website": "https://www.seasidebunkhouse.com"
+  }
+}
+
+
+
+,{
+  "id":6,
+  "name": "Cultural Hub Hostel",
+  "review": "An immersive cultural experience awaits at this hostel. The vibrant decor, cultural activities, and friendly staff make it a memorable stay.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/zfYTxdr0/392180120.jpg",
+  "rating": 4.2,
+  "price_range": "6k",
+  "amenities": ["Cultural events", "Community kitchen", "Outdoor terrace", "Book exchange"],
+  "contact": {
+    "phone": "+91-9876543222",
+    "email": "info@culturalhubhostel.com",
+    "website": "https://www.culturalhubhostel.com"
+  }
+}
+
+
+
+,
+{
+  "id":7,
+  "name": "Urban Oasis Hostel",
+  "review": "A peaceful retreat in the midst of the bustling city. The hostel offers comfortable rooms and a tranquil courtyard for relaxation.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/v8XFMj2x/353644466.jpg",
+  "rating": 4.1,
+  "price_range": "5k",
+  "amenities": ["Courtyard", "Shared dorms", "Communal kitchen", "Free Wi-Fi"],
+  "contact": {
+    "phone": "+91-9876543223",
+    "email": "info@urbanoasishostel.com",
+    "website": "https://www.urbanoasishostel.com"
+  }
+}
+
+,
+
+
+{
+  "id":8,
+  "name": "Green Valley Hostel",
+  "review": "Surrounded by lush greenery, this hostel offers a peaceful and eco-friendly environment. Enjoy nature and meet like-minded travelers.",
+  "place": "Kochi, Kerala",
+  "image": "https://i.postimg.cc/j5sgFqbg/smart-homes-ladies-accommodation-infopark-kochi-ernakulam-hostels-for-women-maa01.webp",
+  "rating": 4.0,
+  "price_range": "5k",
+  "amenities": ["Nature surroundings", "Shared dorms", "Garden area", "Common lounge"],
+  "contact": {
+    "phone": "+91-9876543224",
+    "email": "info@greenvalleyhostel.com",
+    "website": "https://www.greenvalleyhostel.com"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+ ] 
+}
